@@ -1,24 +1,64 @@
 # carbonyl
 
+[中文版本](./README.cn.md)
+
 Chromium running inside your terminal
 
-- **Upstream**: <https://github.com/fathyb/carbonyl>
-- **Homepage**: <>
-- **Latest release**: `v0.0.3` (2023-02-18)
-- **Last commit**: 2023-02-26
-- **License**: BSD-3-Clause
-- **Stars**: 19490 · **Forks**: 580 · **Open issues**: 137 · **Contributors**: 11
+![carbonyl](https://repo.x-cmd.io/carbonyl.svg)
 
-## Installation
+## Install
 
 ```sh
 x install carbonyl
 ```
 
-See <https://x-cmd.com/install/carbonyl> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/fathyb/carbonyl>
+- **License**: BSD-3-Clause
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:24:03Z._
+- **Latest**: `v0.0.3` (2023-02-18)
+- **Last commit**: 2023-02-26
+- **Assets in release**: 4
+- **Published**: 2023-02-18T00:23:14Z
+
+## Popularity
+
+- **Stars**: 19,489 · **Forks**: 580 · **Open issues**: 137 · **Contributors**: 11
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 39 · **Open PRs**: 9 · **Closed issues**: 56 · **Open issues**: 81 · **Commits**: 88
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 6 | 0 | 8 | 0 |
+
+## Code size
+
+Total: **3,651** lines of code across **69** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,675 | 61 | 489 | 41 |
+| Sh | 288 | 18 | 122 | 18 |
+| Cpp | 250 | 0 | 64 | 4 |
+| CHeader | 203 | 7 | 75 | 5 |
+| JavaScript | 145 | 0 | 8 | 1 |
+
+## Improve this data
+
+Install metadata for carbonyl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `carbonyl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/carbonyl.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:11:39Z._
