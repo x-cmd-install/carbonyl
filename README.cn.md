@@ -4,7 +4,7 @@
 
 Chromium running inside your terminal
 
-![carbonyl](https://repo.x-cmd.io/carbonyl.svg)
+![carbonyl](https://repo.x-cmd.io/carbonyl.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,19 @@ x install carbonyl
 - **最新版本**: `v0.0.3` (2023-02-18)
 - **最近提交**: 2023-02-26
 - **Release 含资产**: 4 个
-- **发布时间**: 2023-02-18T00:23:14Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [carbonyl.linux-amd64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.linux-amd64.zip) | 74.4 MiB | `native/linux/x64` |
+| [carbonyl.linux-arm64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.linux-arm64.zip) | 76.5 MiB | `native/linux/arm64` |
+| [carbonyl.macos-amd64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.macos-amd64.zip) | 73.5 MiB | `native/darwin/x64` |
+| [carbonyl.macos-arm64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.macos-arm64.zip) | 65.6 MiB | `native/darwin/arm64` |
 
 ## 流行度
 
-- **Star**: 19,489 · **Fork**: 580 · **开放 issue**: 137 · **贡献者**: 11
+- **Star**: 19,491 · **Fork**: 580 · **开放 issue**: 137 · **贡献者**: 11
 
 ## 累计统计
 
@@ -61,4 +69,4 @@ carbonyl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:11:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:56:44Z._

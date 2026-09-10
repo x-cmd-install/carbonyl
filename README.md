@@ -22,11 +22,19 @@ x install carbonyl
 - **Latest**: `v0.0.3` (2023-02-18)
 - **Last commit**: 2023-02-26
 - **Assets in release**: 4
-- **Published**: 2023-02-18T00:23:14Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [carbonyl.linux-amd64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.linux-amd64.zip) | 74.4 MiB | `native/linux/x64` |
+| [carbonyl.linux-arm64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.linux-arm64.zip) | 76.5 MiB | `native/linux/arm64` |
+| [carbonyl.macos-amd64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.macos-amd64.zip) | 73.5 MiB | `native/darwin/x64` |
+| [carbonyl.macos-arm64.zip](https://github.com/fathyb/carbonyl/releases/download/v0.0.3/carbonyl.macos-arm64.zip) | 65.6 MiB | `native/darwin/arm64` |
 
 ## Popularity
 
-- **Stars**: 19,489 · **Forks**: 580 · **Open issues**: 137 · **Contributors**: 11
+- **Stars**: 19,491 · **Forks**: 580 · **Open issues**: 137 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -57,8 +65,8 @@ Total: **3,651** lines of code across **69** files in the top 5 languages.
 Install metadata for carbonyl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `carbonyl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/carbonyl.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/carbonyl.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:11:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:56:43Z._
