@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.3"
   latestRelease: "v0.0.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:11:25Z
+  collectedAt: 2026-09-10T16:56:34Z
 timeline:
   created: 2023-01-20
   lastCommit: 2023-02-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2023-02-18
   lastPrerelease: 
 popularity:
-  star: 19489
+  star: 19491
   watcher: 101
   fork: 580
   release: 2
@@ -89,7 +89,7 @@ total:
   commit: 88
 ---
 path: /home/runner/.x-repo/github.com/fathyb/carbonyl
-collectedAt: 2026-09-10T05:11:26Z
+collectedAt: 2026-09-10T16:56:35Z
 loc:
   Rust:
     code: 2675
