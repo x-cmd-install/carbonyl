@@ -1,0 +1,46 @@
+- repo: aur
+  srcname: carbonyl
+  binname: carbonyl
+  visiblename: carbonyl
+  version: 0.0.3
+  origversion: 0.0.3-2
+  status: newest
+  summary: Chromium-based browser built to run in a terminal
+  maintainers:
+    - matthewq337@aur
+  licenses:
+    - BSD
+- repo: aur
+  srcname: carbonyl-bin
+  binname: carbonyl-bin
+  visiblename: carbonyl-bin
+  version: 0.0.3
+  origversion: 0.0.3-2
+  status: newest
+  summary: Chromium-based browser built to run in a terminal
+  maintainers:
+    - stickynotememo@aur
+  licenses:
+    - BSD
+- repo: aur
+  srcname: carbonyl-git
+  binname: carbonyl-git
+  visiblename: carbonyl-git
+  version: r88.ab80a27
+  origversion: r88.ab80a27-2
+  status: rolling
+  summary: Chromium-based browser built to run in a terminal
+  maintainers:
+    - matthewq337@aur
+  licenses:
+    - BSD
+- repo: termux
+  srcname: carbonyl
+  binname: carbonyl
+  visiblename: carbonyl
+  version: 0.0.3
+  origversion: null
+  status: newest
+  summary: Chromium based browser built to run in a terminal
+  maintainers:
+    - licy183@github
