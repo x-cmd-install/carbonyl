@@ -37,7 +37,7 @@ Total: **3,651** lines of code across **69** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,491 · **Forks**: 580 · **Open issues**: 137 · **Contributors**: 11
+- **Stars**: 19,493 · **Forks**: 581 · **Open issues**: 137 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -76,4 +76,4 @@ Install metadata for carbonyl lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:02:53Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:59:25Z._
